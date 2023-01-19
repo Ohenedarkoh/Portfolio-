@@ -1,0 +1,29 @@
+/* Primary Text */
+
+.body{
+width: 920px;
+height: 122px;}
+
+/* Header / 1 */
+.header{
+font-family:'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 60px;}
+/* or 125% */
+.paragraph{
+display: flex;
+align-items: center;
+letter-spacing: 0.37px;}
+
+/* Theme 1 / Neutrals 1 */
+.body .header .paragraph{
+color: #091E42;}
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
